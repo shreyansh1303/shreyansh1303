@@ -7,6 +7,12 @@
 
 - 🔭 I’m currently working on **HappenHere**
 
+- 🌱 I’m currently learning **Next.js**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-shreyanshs-projects-d8645b22.vercel.app/](https://my-portfolio-shreyanshs-projects-d8645b22.vercel.app/)
+
+- 📫 How to reach me **shreyansh13032002@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreyanshiet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyanshiet" height="30" width="40" /></a>
