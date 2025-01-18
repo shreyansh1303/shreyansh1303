@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HappenHere**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-shreyanshs-projects-d8645b22.vercel.app/](https://my-portfolio-shreyanshs-projects-d8645b22.vercel.app/)
 
